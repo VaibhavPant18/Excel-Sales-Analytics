@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/VaibhavPant18/Excel-Sales-Analytics/blob/main/1.%20Sales%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/VaibhavPant18/Excel-Sales-Analytics/blob/main/1.%20Sales%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,15 +18,15 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/VaibhavPant18/Excel-Sales-Analytics/blob/main/2.%20Financial%20Report.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/VaibhavPant18/Excel-Sales-Analytics/blob/main/2.%20Financial%20Report.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods. Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
